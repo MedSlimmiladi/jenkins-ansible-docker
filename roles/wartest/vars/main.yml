@@ -1,4 +1,4 @@
 ---
 # vars file for curl
 # roles/wartest/vars/main.yml
-image: "wartest:latest"
+image: "https://gitlab.com/MedSlimmiladi/presentation-jenkins/wartest:latest"
