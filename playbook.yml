@@ -5,6 +5,7 @@
   roles:
     - role: wartest
       vars:
-      image:"{{ image }}"
+       image: "{{ image }}"
+
 
 
